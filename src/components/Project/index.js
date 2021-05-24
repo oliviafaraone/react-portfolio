@@ -5,7 +5,7 @@ import img3 from "../../assets/pets.png";
 import img4 from "../../assets/weather.png";
 import img5 from "../../assets/scheduler.png";
 import img6 from "../../assets/blog.png";
-import img6 from "../../assets/green.png";
+import img7 from "../../assets/green.png";
 
 
 function Project() {
