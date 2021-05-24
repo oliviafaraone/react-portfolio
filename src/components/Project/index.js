@@ -5,12 +5,15 @@ import img3 from "../../assets/pets.png";
 import img4 from "../../assets/weather.png";
 import img5 from "../../assets/scheduler.png";
 import img6 from "../../assets/blog.png";
+import img6 from "../../assets/green.png";
+
 
 function Project() {
 
     const projects = [
         {title: "Run Buddy", image: img1, link: "https://oliviafaraone.github.io/run-buddy/", git: "https://github.com/oliviafaraone/run-buddy"},
         {title: "CA NPS", image: img2, link: "https://hlry.github.io/california-camping-planner/", git: "https://github.com/hlry/california-camping-planner"},
+        {title: "Green Thumb", image: img7, link: "https://tranquil-falls-18471.herokuapp.com/", git: "https://github.com/Archivary/green-thumbs/tree/developv2"},
         {title: "Pets R Us", image: img3, link: "https://polar-lowlands-05168.herokuapp.com/", git: "https://github.com/hlry/Pet-Adoption"},
         {title: "Weather Dashboard", image: img4, link: "https://oliviafaraone.github.io/Weather-Dashboard/", git: "https://github.com/oliviafaraone/Weather-Dashboard"},
         {title: "Work Scheduler Dashboard", image: img5, link: "https://oliviafaraone.github.io/Work-Day-Scheduler/", git: "https://github.com/oliviafaraone/Work-Day-Scheduler"},
